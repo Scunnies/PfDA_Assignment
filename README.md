@@ -1,13 +1,37 @@
 # PfDA_Assignment
 ## Programming for Data Analysis: Assignment December 2022
 ***
+
+This repository contains my submission for the Programming for Data Analysis module at ATU as part of the Higher Diploma in Computing in Data Analytics.
+
 ### Assignment Brief:
 
-The objective of this project is to create a data set by simulating a real-world phenomenon of your own choosing. You may pick any phenomenon you wish – you might pick one that is of interest to you in your personal or professional life. Then, rather than collect data related to the phenomenon, you should model and synthesise such data using Python.
+The objective of this project is:
 
-Specifically, in this project you should:
-• Choose a real-world phenomenon that can be measured and for which you could collect at least one-hundred data points across at least four different variables.
-• Investigate the types of variables involved, their likely distributions, and their relationships with each other.
-• Synthesise/simulate a data set as closely matching their properties as possible.
-• Detail your research and implement the simulation in a Jupyter notebook – the data set itself can simply be displayed in an output cell within the notebook.
+1. Create a data set by simulating a real-world phenomenon of my own choosing based on at least 100 data points across a minimum of four variables. 
+2. Investigate the types of variables involved, their likely distributions, and their relationships with each other.
+3. Synthesise/simulate a data set as closely matching their properties as possible.
+4. Detail research and implement the simulation in a Jupyter notebook.
 
+
+### How to download this repository
+
+Go to the URL for the repository on GitHub at https://github.com/Scunnies/PfDA_Assignment and click the green Clone or download button.
+
+### Contents of repository:
+
+- Readme file
+- The PfDA_Assignment.ipynb notebook containing research and analysis of the real-world data and the implementation of the simulation.
+- git ignore 
+- {additional files?}
+
+Python 3 was used to develop this project and is needed to run the code in the notebook. Python 3 can be downloaded from the official Python website at https://www.python.org/downloads/. It can also be downloaded using the Anaconda Python distribution at https://www.anaconda.com/distribution/.
+
+The Jupyter Notebook `PfDA_Assignment.ipynb` can be viewed directly in this GitHub repository in a browser without Python 3 being installed. 
+If the repository is downloaded it can be run locally by navigating to the folder and entering the command jupyter lab or jupyter notebook on the command line. This will open Jupyter in the browser. 
+
+The main python libraries used are pandas, seaborn, matplotlib.pyplot and numpy. These are loaded at the start of the code. The code should be run from top to bottom. 
+
+### References 
+
+Some resources are hyperlinked within the text of the notebook and the remainder of references are listed at the end of the notebook.  
