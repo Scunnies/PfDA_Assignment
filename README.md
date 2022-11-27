@@ -13,11 +13,6 @@ The objective of this project is:
 3. Synthesise/simulate a data set as closely matching their properties as possible.
 4. Detail research and implement the simulation in a Jupyter notebook.
 
-
-### How to download this repository
-
-Go to the URL for the repository on GitHub at https://github.com/Scunnies/PfDA_Assignment and click the green Clone or download button.
-
 ### Contents of repository:
 
 - Readme file
@@ -25,12 +20,16 @@ Go to the URL for the repository on GitHub at https://github.com/Scunnies/PfDA_A
 - git ignore 
 - {additional files?}
 
-Python 3 was used to develop this project and is needed to run the code in the notebook. Python 3 can be downloaded from the official Python website at https://www.python.org/downloads/. It can also be downloaded using the Anaconda Python distribution at https://www.anaconda.com/distribution/.
+Python 3 was used to develop this project and is needed to run the code in the notebook. Python 3 can be downloaded from the official Python website at https://www.python.org/downloads/ or using the Anaconda Python distribution at https://www.anaconda.com/distribution/.
 
 The Jupyter Notebook `PfDA_Assignment.ipynb` can be viewed directly in this GitHub repository in a browser without Python 3 being installed. 
 If the repository is downloaded it can be run locally by navigating to the folder and entering the command jupyter lab or jupyter notebook on the command line. This will open Jupyter in the browser. 
 
 The main python libraries used are pandas, seaborn, matplotlib.pyplot and numpy. These are loaded at the start of the code. The code should be run from top to bottom. 
+
+### How to clone this repository
+
+On GitHub at https://github.com/Scunnies/PfDA_Assignment click the green Code button, copy the URL for the repository. Open Git Bash, change the current working directory to the location where you want the cloned directory, type git clone, and then paste the URL. Press Enter to create your local clone.
 
 ### References 
 
