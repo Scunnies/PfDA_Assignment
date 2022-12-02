@@ -18,7 +18,6 @@ The objective of this project is:
 - Readme file
 - The PfDA_Assignment.ipynb notebook containing research and analysis of the real-world data and the implementation of the simulation.
 - git ignore 
-- {additional files?}
 
 Python 3 was used to develop this project and is needed to run the code in the notebook. Python 3 can be downloaded from the official Python website at https://www.python.org/downloads/ or using the Anaconda Python distribution at https://www.anaconda.com/distribution/.
 
